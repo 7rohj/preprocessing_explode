@@ -12,9 +12,9 @@
 
 한줄로 가능한 것이였다.
 
-![image](https://user-images.githubusercontent.com/99319638/196690172-3a8734d2-b0b6-48da-9d2b-425cd9c89fbb.png)
+![image](https://user-images.githubusercontent.com/99319638/196691598-63b48005-8bc1-494b-af09-601ffcdf0e9a.png)
 
-length 가 2인 경우만 캡쳐한 사진 `^.^` (5까지 반복 후 concat으로 결합) <br/>
+ `^.^` (5까지 반복 후 concat으로 결합) <br/>
 for 문으로 했을때 [i]가 안먹기에 다 나눠줘서 코드를 짰지만..
 
 ```
